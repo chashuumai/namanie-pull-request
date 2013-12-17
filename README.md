@@ -39,6 +39,8 @@ rsync(sftpのauto-uploadで済むかも)
 [#5](https://github.com/penxera/namanie-pull-request/wiki/namanie5)  
 [#6](https://github.com/penxera/namanie-pull-request/wiki/namanie6)  
 
+[#7](https://github.com/penxera/namanie-pull-request/wiki/namanie7)  
+
 ### エンジニアへの要望
 - 制作用の環境を用意しよう
 - viewとlogicをわけて分業
